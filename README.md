@@ -46,4 +46,4 @@ An application that shows sales made by salespeople on a specific date. Data can
 
 <br><br>
 ## ✍️ Author
-Project made by [Kaio Soares](https://github.com/kaiossoares), by the course of [DevSuperior](https://github.com/devsuperior/sds-dsmeta)
+Project made by [Kaio Soares](https://github.com/kaiossoares), by the course of [DevSuperior](https://github.com/devsuperior/sds-dsmeta).
